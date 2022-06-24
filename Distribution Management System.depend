@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1595844214 source:c:\users\thushara supun\documents\codeblocks projects\distribution management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1595844214 source:d:\my projects\c projects\distribution management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
